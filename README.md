@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alexis Brachet and welcome to my GitHub page.
+I'm Alexis Brachet and welcome to my GitHub page. Please find my CV [here](https://github.com/Kolmobatem/Kolmobatem/blob/main/CV_ARB_ENG-1.pdf).
 
 - 👨‍🎓 I am a third year student @CentraleSupélec in Data Science and a work-study Data Scientist @WEEM
 - 🔭 I am currently leading a research project @WEEM based on BERT like models [here](https://github.com/Kolmobatem/Profile_suggestion_model)
