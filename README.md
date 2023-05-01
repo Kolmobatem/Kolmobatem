@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Kolmobatem/Kolmobatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Alexis Brachet and welcome to my GitHub page.
+I'm Alexis Brachet and welcome to my GitHub page.
 
-- 👨‍🎓 I am a third year student @ CentraleSupélec in Data Science and a work-study Data Scientist @ WEEM
-- 🔭 I am currently working on a research project @ WEEM based on BERT like models
-- 🚀 You will find every important projects I have done during my courses
-- 👀 I am looking for a job for September, feel free to reach me at alexisraja2000@gmail.com or on LinkedIn https://www.linkedin.com/in/alexis-raja-brachet/
+- 👨‍🎓 I am a third year student @CentraleSupélec in Data Science and a work-study Data Scientist @WEEM
+- 🔭 I am currently working on a research project @WEEM based on BERT like models [here](https://github.com/Kolmobatem/Profile_suggestion_model)
+- 🚀 You will find every important projects I have done during my courses @CentraleSupélec
+- 👀 I am looking for a job for September, feel free to reach me at alexisraja2000@gmail.com or on my [LinkedIn profile](https://www.linkedin.com/in/alexis-raja-brachet/)
